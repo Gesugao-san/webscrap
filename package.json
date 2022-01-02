@@ -1,0 +1,17 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "osmosis": "^1.1.2"
+  },
+  "description": "https://tproger.ru/translations/web-scraping-node-js/",
+  "keywords": [
+    "osmosis"
+  ],
+  "author": "Gesugao-san",
+  "license": "MIT"
+}
